@@ -1,0 +1,13 @@
+# The new PGC watcher has a project-scoped session and local logs.
+.pgc/
+
+# Swift / Xcode generated state.
+.build/
+.swiftpm/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# Compiled app bundles and transient camera captures.
+*.app/
+captures/
